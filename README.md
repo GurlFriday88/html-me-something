@@ -1,0 +1,1 @@
+My first attempt at making a webpage. It's not much to look at and many things could have been laid out better. Despite it's shortcommings, it was fun to work on and it was a great learning experiance. 
